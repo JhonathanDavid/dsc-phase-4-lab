@@ -30,7 +30,11 @@ We are conducting a Time Series Analysis over the Zillow Home Value Index (ZHVI)
 ### Conclusions
 to Invest in these ZIP Codes due to Higher ROI
 Highest projected ROI:
-6069 = 24.12%, 6610 = 31%, 6330 = 21%, 6039 = 19%, 6058 = 19%.
+* 6069 = 24.12%
+* 6610 = 31%
+* 6330 = 21%
+* 6039 = 19%
+* 6058 = 19%.
 
 ## Summary
 ```
