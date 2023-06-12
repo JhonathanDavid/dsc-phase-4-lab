@@ -45,8 +45,8 @@ Highest projected ROI:
 ## Summary
 ```
 ├── README.md                      <- The top-level README for reviewers of this project
-├── index.ipynb                    <- Jupyter notebook. Overview, Business Problem, Data Understanding.Modelin
-├── index.pdf                      <- PDF version of project presentation
-├── data                            <- the database used 
-└── BusinessPresentation.pdf        <- pdf of business presentation
+├── Folder                         <- Folder containing 2 ipynbs one for EDA and second for Arima Modeling
+├── PDF1_Nontechnical Presentations <- PDF version of Business Power Point 
+├── PDF2_Jupyter Notebook.pdf      <- PDF version of ipynb project containing EDA and Arima modeling
+└── time series folder             <- contains initial instructions
 ```
