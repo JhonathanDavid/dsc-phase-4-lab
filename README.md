@@ -2,8 +2,7 @@
 # Predictive Modeling 
 # REAL ESTATE FORECASTING
 
-![awesome] (https://www.construction21.org/data/sources/users/44110/breno-assis-r3wawu5fi5q-unsplash.jpg)
-
+![awesome](https://www.construction21.org/data/sources/users/44110/breno-assis-r3wawu5fi5q-unsplash.jpg)
 
 ### Project Overview
 
