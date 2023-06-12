@@ -16,7 +16,7 @@ Jupyter Notebook A brief note on this Jupyter notebook. This notebook presents s
 ### Business Modeling Objectives
 
 1. Understand Real Estate Prices - how they have changed overtime 
-2. 2. Find out Real Estate Areas of Growth Measured by ROI
+2. Find out Real Estate Areas of Growth Measured by ROI
 
 
 ### Business Understanding & Business Problem
