@@ -28,7 +28,7 @@ As important to Telecommunications companies as it is to earn new customers to t
 We are conducting a Time Series Analysis over the Zillow Home Value Index (ZHVI):A data set that tracks a sample of real estate prices over time. In particular, a time series allows one to see what factors influence certain variables from period to period. Time series analysis can be useful to see how a given asset, in this case Real Estate, or economic variable, in this case ROI, changes over time.
 
 ### Conclusions
-to Invest in these ZIP Codes due to Higher ROI
+Modeling derived results to invest in these ZIP Codes due to Higher ROI
 Highest projected ROI:
 * 6069 = 24.12%
 * 6610 = 31%
