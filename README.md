@@ -2,7 +2,7 @@
 # Predictive Modeling 
 # REAL ESTATE FORECASTING
 
-![awesome(https://www.google.com/url?sa=i&url=https%3A%2F%2F4degrees.ai%2Fblog%2Finvestment-banking%2Ftrends-in-investment-banking-technology-post%2F&psig=AOvVaw1laCqO4qEOGXSpf4i_nA6w&ust=1692575359082000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCnoN306YADFQAAAAAdAAAAABAK)### Project Overview
+![awesome](https://www.google.com/url?sa=i&url=https%3A%2F%2F4degrees.ai%2Fblog%2Finvestment-banking%2Ftrends-in-investment-banking-technology-post%2F&psig=AOvVaw1laCqO4qEOGXSpf4i_nA6w&ust=1692575359082000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCnoN306YADFQAAAAAdAAAAABAK)### Project Overview
 
 This project will look into a Real Estate database to find valuable information about the value of homes and return on investment. My company, Xabios data international, has been hired to determind the change of prices in this market over time and to determine which areas have the most potential to increase. Thus, this project is aimed at two very targeted goal using Time Series Modeling :
 Jupyter Notebook A brief note on this Jupyter notebook. This notebook presents story line following this structure:
